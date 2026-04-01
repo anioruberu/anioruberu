@@ -1,4 +1,4 @@
-# ✨ About Me:
+# ✨ Sobre mi:
 - Soy desarrollador de software principiante y quiero ganar experiencia construyendo proyectos para aprender más cada día.
 - Tecnologías que manejo: HTML, CSS, JavaScript, TypeScript, Next.js y React.
 
