@@ -3,7 +3,7 @@
 - Tecnologías que manejo: HTML, CSS, JavaScript, TypeScript, Next.js y React.
 
 # 🌐 Redes Sociales:
-[![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-sitio-web.com)
+[![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anioruberu.github.io/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/r2JxMKNK)
 [![Comunidad LD Animes](https://img.shields.io/badge/Comunidad_LD_Animes-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cS5skF7Yn5)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anioruberu)
